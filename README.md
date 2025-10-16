@@ -23,8 +23,6 @@ Professional containerization project demonstrating the transformation of a trad
 ## 🏗 Architecture
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/ef880cfa-286d-482f-911b-d1edbf9e8dec" />
 
-### Multi-Tier Application Architecture
-
 
 ### Container Network Architecture
 
